@@ -1,4 +1,5 @@
-Business Logic Layer — README
+Business Documents library
+
 Overview
 The Business Logic Layer (BLL) is the core decision‑making engine of this service. It encapsulates all domain rules, validation flows, transformations, and orchestration required to process requests consistently and predictably.
 This layer ensures that the system behaves according to defined business policies rather than implementation details or UI/API constraints.
